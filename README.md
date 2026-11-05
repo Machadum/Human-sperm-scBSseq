@@ -1,2 +1,9 @@
 # Human-sperm-scBSseq
 Code and analysis pipelines for single-cell sperm DNA methylation profiling, investigating epigenetic differences between X- and Y-bearing spermatozoa and the impact of obesity on the human sperm epigenome.
+
+## Software and reproducibility
+
+Analyses were performed using R and Python.
+
+- R session information: [sessionInfo.txt](docs/sessionInfo.txt)
+- Python dependencies: [requirements.txt](requirements.txt)
